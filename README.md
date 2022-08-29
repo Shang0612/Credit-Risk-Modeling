@@ -12,7 +12,7 @@ You can see my detailed process on PD model estimation and validation with varia
 You can see my detailed process on Cross Validation. I imported 2015 data, the 'new' data, to test whether our model built in P2 is solid enough to perform latest dataset. Population Stability Index calculation and interpretation is my approach. After going through same preprocessing as P1 for the 2015 data, I find out our current model definitely require further investigation, modification to fit latest dataset better. 
 
 ## P4: 
-You can see my detailed process on the final calculations -- Expected Loss -- by using LGD, EAD, and PD model. Used logsitic regression and linear regression to simulate recovery rate, Credit Conversion Factor, and calculated Expected Loss portion comparing to capital. It is still very immature model and require further construction works, but overall it is such a great training for me to gain exposure into credit risk modeling.
+You can see my detailed process on the final calculations -- Expected Loss -- by using results generated from LGD, EAD, and PD model. Used logsitic regression and linear regression to simulate recovery rate, Credit Conversion Factor, and calculated Expected Loss portion comparing to capital. It is still very immature model and require further construction works, but overall it is such a great training for me to gain exposure into credit risk modeling.
 
 
 
